@@ -6,4 +6,9 @@ A simple User authentication KIVY App that can be Ported to Android and iOS whic
 Using Django Backend(Django RestFUL APIs)
 
 
+![alt text](screenshots/login.png "Login Page")
+
+![alt text](screenshots/register.png "Register Page")
+
+
 
