@@ -1,6 +1,6 @@
 certifi==2018.4.16
 chardet==3.0.4
-Django==1.9
+Django==1.11.29
 django-rest-authemail==1.4.0
 djangorestframework==3.3.3
 idna==2.7
