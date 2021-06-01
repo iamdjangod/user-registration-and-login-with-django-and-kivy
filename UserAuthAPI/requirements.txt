@@ -5,4 +5,4 @@ django-rest-authemail==1.4.0
 djangorestframework==3.3.3
 idna==2.7
 requests==2.19.1
-urllib3==1.23
+urllib3==1.26.5
